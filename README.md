@@ -3,7 +3,7 @@ ZORK
 
 ZORK (A Java Project in Eclipse)
 
-Built for CS140 with Ten-Young Guh, Amanda Boltax, and Thomas Hsu.
+Built with Ten-Young Guh, Amanda Boltax, and Thomas Hsu.
 
 Battle your way through the Grumans in Zork! 
 
